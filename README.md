@@ -196,8 +196,10 @@ No releases published
 Packages
 No packages published
 Languages
-
+the link to simple_jwt *************************************************
+https://django-rest-framework-simplejwt.readthedocs.io/en/latest/settings.html
     Python 100.0% 
 
 Footer
 © 2025 Gi
+https://django-rest-framework-simplejwt.readthedocs.io/en/latest/settings.html
